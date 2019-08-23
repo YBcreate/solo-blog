@@ -10,6 +10,7 @@ YBXIE
 
 ### 最新
 
+* [Java三种编译方式：前端编译、JIT编译、AOT编译](http://www.ybxie.top/articles/2019/08/23/1566528321500.html)
 * [查看Java线程内容](http://www.ybxie.top/articles/2019/08/22/1566456765326.html)
 * [记录看过的纪录片](http://www.ybxie.top/articles/2019/08/20/1566266630776.html)
 * [名人名言](http://www.ybxie.top/articles/2019/08/19/1566208583661.html)
