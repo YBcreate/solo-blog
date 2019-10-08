@@ -10,6 +10,8 @@ YBXIE
 
 ### 最新
 
+* [持续集成](http://www.ybxie.top/articles/2019/10/08/1570505552087.html)
+* [linux挂载](http://www.ybxie.top/articles/2019/10/08/1570503728305.html)
 * [我在 GitHub 上的开源项目](http://www.ybxie.top/my-github-repos)
 * [Java三种编译方式：前端编译、JIT编译、AOT编译](http://www.ybxie.top/articles/2019/08/23/1566528321500.html)
 * [查看Java线程内容](http://www.ybxie.top/articles/2019/08/22/1566456765326.html)
