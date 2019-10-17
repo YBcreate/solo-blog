@@ -2,7 +2,7 @@
 YBXIE
 </h2>
 
-<h4 align="center">岂能尽如人意，但求无愧我心</h4>
+<h4 align="center">知行合一</h4>
 <p align="center"><a title="YBXIE" target="_blank" href="https://github.com/YBcreate/solo-blog"><img src="https://img.shields.io/github/last-commit/YBcreate/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/YBcreate/solo-blog"><img src="https://img.shields.io/github/repo-size/YBcreate/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
