@@ -10,6 +10,7 @@ YBXIE
 
 ### 最新
 
+* [SQL记录](http://www.ybxie.top/articles/2019/10/28/1572256086405.html)
 * [springcloud学习笔记](http://www.ybxie.top/articles/2019/10/10/1570701679659.html)
 * [持续集成](http://www.ybxie.top/articles/2019/10/08/1570505552087.html)
 * [linux挂载](http://www.ybxie.top/articles/2019/10/08/1570503728305.html)
