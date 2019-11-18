@@ -10,6 +10,7 @@ YBXIE
 
 ### 最新
 
+* [多线程：java.util.concurrent 之 CountDownLatch](http://www.ybxie.top/articles/2019/11/18/1574045590796.html)
 * [SQL记录](http://www.ybxie.top/articles/2019/10/28/1572256086405.html)
 * [try caych finally的正确用法](http://www.ybxie.top/articles/2019/10/17/1571284369901.html)
 * [springcloud学习笔记](http://www.ybxie.top/articles/2019/10/10/1570701679659.html)
