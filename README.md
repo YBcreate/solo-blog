@@ -10,6 +10,7 @@ YBXIE
 
 ### 最新
 
+* [泛型](http://www.ybxie.top/articles/2019/11/26/1574740163425.html)
 * [hashcode的运用](http://www.ybxie.top/articles/2019/11/19/1574156790751.html)
 * [死锁](http://www.ybxie.top/articles/2019/11/19/1574133650386.html)
 * [跨域解决](http://www.ybxie.top/articles/2019/11/19/1574128427953.html)
@@ -29,10 +30,10 @@ YBXIE
 * [哲学迷思](http://www.ybxie.top/articles/2019/08/19/1566208583661.html)
 * [JVM调优](http://www.ybxie.top/articles/2019/08/15/1565848789021.html)
 * [计算机网络原理思维导图](http://www.ybxie.top/articles/2019/08/14/1565747532256.html)
-* [shiro篇之realm](http://www.ybxie.top/articles/2019/08/09/1565316086142.html)
 
 ### 热门
 
+* [shiro篇之realm](http://www.ybxie.top/articles/2019/08/09/1565316086142.html)
 * [shiro篇之入门](http://www.ybxie.top/articles/2019/08/07/1565169629219.html)
 
 
