@@ -10,13 +10,15 @@ YBXIE
 
 ### 最新
 
+* [nginx反向代理](http://www.ybxie.top/articles/2019/11/29/1575012600485.html)
+* [nginx基础知识](http://www.ybxie.top/articles/2019/11/29/1575010930083.html)
+* [docker基础教程之常用命令](http://www.ybxie.top/articles/2019/11/27/1574817422898.html)
 * [泛型](http://www.ybxie.top/articles/2019/11/26/1574740163425.html)
 * [hashcode的运用](http://www.ybxie.top/articles/2019/11/19/1574156790751.html)
 * [死锁](http://www.ybxie.top/articles/2019/11/19/1574133650386.html)
 * [跨域解决](http://www.ybxie.top/articles/2019/11/19/1574128427953.html)
 * [在springboot项目中整合druid](http://www.ybxie.top/articles/2019/11/19/1574127799930.html)
 * [centos7安装mysql](http://www.ybxie.top/articles/2019/11/19/1574127319061.html)
-* [docker基础教程（一）](http://www.ybxie.top/articles/2019/11/19/1574126897092.html)
 * [多线程：java.util.concurrent 之 CountDownLatch](http://www.ybxie.top/articles/2019/11/18/1574045590796.html)
 * [SQL记录](http://www.ybxie.top/articles/2019/10/28/1572256086405.html)
 * [try caych finally的正确用法](http://www.ybxie.top/articles/2019/10/17/1571284369901.html)
@@ -28,13 +30,13 @@ YBXIE
 * [查看Java线程内容](http://www.ybxie.top/articles/2019/08/22/1566456765326.html)
 * [记录看过的纪录片](http://www.ybxie.top/articles/2019/08/20/1566266630776.html)
 * [哲学迷思](http://www.ybxie.top/articles/2019/08/19/1566208583661.html)
-* [JVM调优](http://www.ybxie.top/articles/2019/08/15/1565848789021.html)
-* [计算机网络原理思维导图](http://www.ybxie.top/articles/2019/08/14/1565747532256.html)
 
 ### 热门
 
 * [shiro篇之realm](http://www.ybxie.top/articles/2019/08/09/1565316086142.html)
 * [shiro篇之入门](http://www.ybxie.top/articles/2019/08/07/1565169629219.html)
+* [计算机网络原理思维导图](http://www.ybxie.top/articles/2019/08/14/1565747532256.html)
+* [JVM调优](http://www.ybxie.top/articles/2019/08/15/1565848789021.html)
 
 
 
