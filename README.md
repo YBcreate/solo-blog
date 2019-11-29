@@ -10,6 +10,9 @@ YBXIE
 
 ### 最新
 
+* [未来需要填的坑（立flag）](http://www.ybxie.top/articles/2019/11/29/1575016975675.html)
+* [nginx动静分离](http://www.ybxie.top/articles/2019/11/29/1575016771125.html)
+* [nginx负载均衡](http://www.ybxie.top/articles/2019/11/29/1575013794418.html)
 * [nginx反向代理](http://www.ybxie.top/articles/2019/11/29/1575012600485.html)
 * [nginx基础知识](http://www.ybxie.top/articles/2019/11/29/1575010930083.html)
 * [docker基础教程之常用命令](http://www.ybxie.top/articles/2019/11/27/1574817422898.html)
@@ -27,16 +30,16 @@ YBXIE
 * [linux挂载](http://www.ybxie.top/articles/2019/10/08/1570503728305.html)
 * [我在 GitHub 上的开源项目](http://www.ybxie.top/my-github-repos)
 * [Java三种编译方式：前端编译、JIT编译、AOT编译](http://www.ybxie.top/articles/2019/08/23/1566528321500.html)
-* [查看Java线程内容](http://www.ybxie.top/articles/2019/08/22/1566456765326.html)
-* [记录看过的纪录片](http://www.ybxie.top/articles/2019/08/20/1566266630776.html)
-* [哲学迷思](http://www.ybxie.top/articles/2019/08/19/1566208583661.html)
 
 ### 热门
 
 * [shiro篇之realm](http://www.ybxie.top/articles/2019/08/09/1565316086142.html)
 * [shiro篇之入门](http://www.ybxie.top/articles/2019/08/07/1565169629219.html)
 * [计算机网络原理思维导图](http://www.ybxie.top/articles/2019/08/14/1565747532256.html)
+* [哲学迷思](http://www.ybxie.top/articles/2019/08/19/1566208583661.html)
 * [JVM调优](http://www.ybxie.top/articles/2019/08/15/1565848789021.html)
+* [记录看过的纪录片](http://www.ybxie.top/articles/2019/08/20/1566266630776.html)
+* [查看Java线程内容](http://www.ybxie.top/articles/2019/08/22/1566456765326.html)
 
 
 
