@@ -10,6 +10,10 @@ YBXIE
 
 ### 最新
 
+* [git分支管理](https://www.ybxie.top/articles/2019/12/12/1576122682615.html)
+* [降级、熔断、限流](https://www.ybxie.top/articles/2019/12/12/1576120514192.html)
+* [spring事务失效的几种情况](https://www.ybxie.top/articles/2019/12/12/1576118755620.html)
+* [idea发布jar包的三种方式](https://www.ybxie.top/articles/2019/12/11/1576060135279.html)
 * [nginx动静分离](https://www.ybxie.top/articles/2019/11/29/1575016771125.html)
 * [nginx负载均衡](https://www.ybxie.top/articles/2019/11/29/1575013794418.html)
 * [nginx反向代理](https://www.ybxie.top/articles/2019/11/29/1575012600485.html)
@@ -26,10 +30,6 @@ YBXIE
 * [try caych finally的正确用法](https://www.ybxie.top/articles/2019/10/17/1571284369901.html)
 * [springcloud学习笔记](https://www.ybxie.top/articles/2019/10/10/1570701679659.html)
 * [持续集成](https://www.ybxie.top/articles/2019/10/08/1570505552087.html)
-* [linux挂载](https://www.ybxie.top/articles/2019/10/08/1570503728305.html)
-* [我在 GitHub 上的开源项目](https://www.ybxie.top/my-github-repos)
-* [Java三种编译方式：前端编译、JIT编译、AOT编译](https://www.ybxie.top/articles/2019/08/23/1566528321500.html)
-* [查看Java线程内容](https://www.ybxie.top/articles/2019/08/22/1566456765326.html)
 
 ### 热门
 
@@ -39,6 +39,10 @@ YBXIE
 * [哲学迷思](https://www.ybxie.top/articles/2019/08/19/1566208583661.html)
 * [记录看过的纪录片](https://www.ybxie.top/articles/2019/08/20/1566266630776.html)
 * [JVM调优](https://www.ybxie.top/articles/2019/08/15/1565848789021.html)
+* [查看Java线程内容](https://www.ybxie.top/articles/2019/08/22/1566456765326.html)
+* [Java三种编译方式：前端编译、JIT编译、AOT编译](https://www.ybxie.top/articles/2019/08/23/1566528321500.html)
+* [我在 GitHub 上的开源项目](https://www.ybxie.top/my-github-repos)
+* [linux挂载](https://www.ybxie.top/articles/2019/10/08/1570503728305.html)
 
 
 
